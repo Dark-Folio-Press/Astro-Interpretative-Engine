@@ -9,7 +9,7 @@ This document provides complex, multi-layered examples for advanced interpretati
 Interpret a Grand Cross configuration:
 - Mars in Aries in the 10th house
 - Moon in Cancer in the 1st house
-- Venus in Libra in the 4th house  
+- Venus in Libra in the 4th house
 - Pluto in Capricorn in the 7th house
 
 All planets within 5-degree orb of cardinal grand cross pattern.

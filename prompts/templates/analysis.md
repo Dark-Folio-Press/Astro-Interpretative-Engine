@@ -211,6 +211,8 @@ Note: Harmonic analysis explores subtle, often creative or spiritual dimensions.
 
 ## Declination and Out-of-Bounds Analysis
 
+**Note:** Declination refers to a planet's distance north or south of the celestial equator (measured in degrees). Parallels occur when two planets have the same declination; contra-parallels occur when they have equal but opposite declinations. Planets are considered "out-of-bounds" when they exceed approximately 23°27' declination.
+
 ### Template: Parallel and Out-of-Bounds Study
 
 ```
