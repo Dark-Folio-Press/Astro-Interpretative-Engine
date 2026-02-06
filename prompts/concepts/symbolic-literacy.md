@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Symbolic literacy is the ability to read, interpret, and understand symbolic systems - not just as abstract signs, but as carriers of meaning that resonate across cultures, time periods, and contexts. In the context of the Astro-Interpretative-Engine, symbolic literacy forms the foundation for meaningful interpretation.
+Symbolic literacy is the ability to read, interpret, and understand symbolic systems as carriers of meaning that resonate across cultures, time periods, and contexts. In the context of the Astro-Interpretative-Engine, symbolic literacy forms the foundation for meaningful interpretation.
 
 ## What is Symbolic Interpretation?
 
-Symbolic interpretation goes beyond surface-level reading. It involves:
+Symbolic interpretation goes beyond surface level reading. It involves:
 
 ### 1. **Recognition**
 - Identifying symbols within a system (e.g., planets, signs, houses in astrology)
@@ -74,7 +74,7 @@ Symbols are multi-dimensional. A single planetary placement contains layers of m
 "Mars in Aries means you're aggressive."
 
 **Symbolic literacy:**
-"Mars in Aries suggests a direct, unmediated expression of will and desire - a pioneering spirit that initiates action with courage, though this same energy may at times lack patience for process or nuance."
+"Mars in Aries suggests a direct, unmediated expression of will and desire. A pioneering spirit that initiates action with courage, though this same energy may at times lack patience for process or nuance."
 
 ### Honor Complexity
 Real charts are complex tapestries of interacting symbols. Meaningful interpretation requires holding multiple perspectives simultaneously.
@@ -121,7 +121,7 @@ When creating prompts for the Astro-Interpretative-Engine:
 - The symbolic systems of Carl Jung and his concept of archetypes
 - James Hillman's archetypal psychology
 - Traditional astrological texts (e.g., William Lilly, Ptolemy)
-- Contemporary astrological synthesists (e.g., Liz Greene, Robert Hand)
+- Contemporary astrological synthesists (e.g., Liz Greene, Robert Hand, Rob Brezney)
 
 ---
 
