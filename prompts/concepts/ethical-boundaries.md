@@ -62,7 +62,6 @@ The Astro-Interpretative-Engine is designed with ethical considerations at its c
 **Principle:** Interpret charts only with appropriate consent and maintain confidentiality.
 
 **In Practice:**
-- Don't interpret someone's chart without their knowledge
 - Keep interpretations confidential
 - Respect the private nature of symbolic work
 - Don't use interpretations to manipulate or control
@@ -147,19 +146,17 @@ If you're unsure whether an interpretation crosses ethical boundaries:
 ## Accountability
 
 The development team and contributors to this project are responsible for:
-- Regularly reviewing ethical guidelines
 - Testing prompts for ethical compliance
 - Updating safeguards as needed
 - Listening to feedback from users and practitioners
 - Prioritizing ethical considerations over technical capabilities
 
-## Resources
+## Guidance
 
-- APA Ethics Code (for general professional ethics)
 - ISAR Ethics Statement (International Society for Astrological Research)
 - NCGR Code of Ethics (National Council for Geocosmic Research)
 - AFAN Professional Ethics Statement (Association for Astrological Networking)
 
 ---
 
-*Ethics is not a constraint on this project - it is the foundation. These boundaries don't limit the Astro-Interpretative-Engine; they make it trustworthy.*
+*Ethics is not a constraint on this project, it is the foundation. These boundaries don't limit the Astro-Interpretative-Engine; they make it trustworthy.*
