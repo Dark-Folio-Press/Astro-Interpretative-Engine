@@ -1,7 +1,5 @@
 # Astro-Interpretative-Engine
 
-At its core, this project is an experiment in interpretive system design: how to encode symbolic literacy, restraint, and ethical boundaries into an AI-assisted application.
-
 ## Overview
 
 The Astro-Interpretative-Engine is a symbolic interpretation system being developed by Dark Folio Press. This repository serves as a collaborative portfolio for prompt engineering documents, templates, and best practices focused on ethical, depth-oriented astrological interpretation.
